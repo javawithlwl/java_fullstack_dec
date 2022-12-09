@@ -12,5 +12,6 @@ public class GenerateFirstNEvenNumber {
     for (int i = 2; count < n ; i = i + 2,count++) {
       System.out.print(i+" ");
     }
+    System.out.println("End of main method");
   }
 }
