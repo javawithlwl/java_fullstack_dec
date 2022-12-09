@@ -13,6 +13,5 @@ public class GenerateFirstNEvenNumber {
       System.out.print(i+" ");
     }
     System.out.println("Total "+n+" even numbers generated");
-    System.out.println("End of main method");
-  }
+   }
 }
